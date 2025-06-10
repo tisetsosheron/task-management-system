@@ -22,5 +22,5 @@ This is a **full-stack task management system** built with:
 
 ### 1️⃣ Clone the Repository
 ```sh
-git clone https://github.com/YOUR_USERNAME/task-management-system.git
+git clone https://github.com/tisetsosheron/task-management-system.git
 cd task-management-system
