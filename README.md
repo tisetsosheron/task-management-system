@@ -4,10 +4,10 @@
 This is a **full-stack task management system** built with:
 - **Backend:** ASP.NET Core Web API (C#)
 - **Frontend:** React + TypeScript
-- **Database:** PostgreSQL / SQL Server
+- **Database:** SQL Server
 - **Authentication:** JWT-based authentication
 - **Real-Time Updates:** SignalR for live notifications
-- **Deployment:** Docker + Azure/AWS
+- **Deployment:** Docker + Azure
 
 ## 🚀 Features
 - User authentication and role-based authorization (Admin/User)
