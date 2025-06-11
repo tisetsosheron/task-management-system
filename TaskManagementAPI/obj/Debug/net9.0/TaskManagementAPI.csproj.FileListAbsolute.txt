@@ -27,3 +27,6 @@ C:\Repos\task-management-system\TaskManagementAPI\obj\Debug\net9.0\refint\TaskMa
 C:\Repos\task-management-system\TaskManagementAPI\obj\Debug\net9.0\TaskManagementAPI.pdb
 C:\Repos\task-management-system\TaskManagementAPI\obj\Debug\net9.0\TaskManagementAPI.genruntimeconfig.cache
 C:\Repos\task-management-system\TaskManagementAPI\obj\Debug\net9.0\ref\TaskManagementAPI.dll
+C:\Repos\task-management-system\TaskManagementAPI\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Repos\task-management-system\TaskManagementAPI\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Repos\task-management-system\TaskManagementAPI\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
